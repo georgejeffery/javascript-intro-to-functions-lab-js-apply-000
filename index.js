@@ -10,3 +10,7 @@ function logShout(string){
  spy = string.toUpperCase()
  console.log (spy)
 }
+function logWhisper(string){
+ spy = string.toLowerCase()
+ console.log (spy)
+}
